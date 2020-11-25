@@ -1,12 +1,9 @@
 //
 //  Binder.swift
-//  Xed
 //
 //  Created by Phuong Lam on 4/14/19.
-//  Copyright © 2019 xed. All rights reserved.
+//  Copyright © 2019 . All rights reserved.
 //
-
-// _ before type: mark ignore label when call methods
 class Binding<T> {
     
     private let binder: Binder
